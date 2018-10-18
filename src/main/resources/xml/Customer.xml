@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer xmlns="http://com.imcs.training/Customer/1.0.0">
+  <customerId>0</customerId>
+  <name>name</name>
+  <dateOfBirth>2001-01-01</dateOfBirth>
+  <annualSalary>0.0</annualSalary>
+  <address>
+    <addressId>0</addressId>
+    <addressLine1>addressLine1</addressLine1>
+    <city>city</city>
+    <state>state</state>
+    <postalCode>0</postalCode>
+    <Country>Country</Country>
+  </address>
+  <paymentMethod>
+    <cardNumber>0</cardNumber>
+    <cardName>cardName</cardName>
+    <dateFrom>2001-01-01</dateFrom>
+    <dateType>2001-01-01</dateType>
+    <cardType>CREDITCARD</cardType>
+  </paymentMethod>
+</customer>
